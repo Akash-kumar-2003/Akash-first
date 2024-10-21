@@ -1,2 +1,2 @@
 # Akash-first
-this is a firsr for git &amp;github
+this is a firsr for git &amp;github.
